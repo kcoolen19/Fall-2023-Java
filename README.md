@@ -1,2 +1,2 @@
-# Fall-2023-Java-Programs
-This repository contains the list of Java programs completed during Fall 2023. 
+# Fall-2023-Java
+This repository contains the list of Java programs completed during the Fall 2023 semester. 
