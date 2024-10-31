@@ -28,6 +28,9 @@ range = max - min + 1;
 return range;
 */
 
+/** 
+* Testing data for program
+ */
 public class DigitRange {
     public static void main(String[] args) {
         // Declaring and initializing the first number
