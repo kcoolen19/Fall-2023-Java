@@ -1,5 +1,5 @@
 // Pseudocode for digitRange program
-/* The method below is called three times for testing
+/* 
 number is assigned an integer value
 firstDigit = number % 10;
 digit = firstDigit;
